@@ -4,3 +4,4 @@
     ✅ mat. bás.
     ✅ mat. bás.
     ✅ mat. bás. eq
+    ✅ comp. e int.  
