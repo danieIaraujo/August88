@@ -6,6 +6,6 @@
     ✅ mat. bás. eq
     ✅ comp. e int.  
     ✅ funç. e codewars
-    ✅
+    ✅ calc. mat.
     ✅
     ✅
